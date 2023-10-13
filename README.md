@@ -1,1 +1,2 @@
 # CLIMATOLOGY-OF-AGARTALA
+In this project, we will use the Facebook Prophet algorithm to predict the weather. Prophet is an additive model that combines seasonal effects and trends to make predictions. It is particularly well-suited for weather forecasting because it can automatically identify seasonality in the data. This means that we can achieve good baseline accuracy without having to perform any feature engineering. Prophet can also be easily scaled to multiple time series, such as data from adjacent weather stations.
